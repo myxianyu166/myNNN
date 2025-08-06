@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       force_update:
-        description: '是否强制更新（忽略版本检查）'
+        description: '是否强制更新（忽略版本检查2）'
         required: false
         default: 'false'
 
